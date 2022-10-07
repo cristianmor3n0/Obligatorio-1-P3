@@ -1,0 +1,16 @@
+C:\Users\Cristian\source\repos\Obligatorio-1-P3\LogicaAccesoDatos\bin\Debug\netcoreapp3.1\LogicaAccesoDatos.deps.json
+C:\Users\Cristian\source\repos\Obligatorio-1-P3\LogicaAccesoDatos\bin\Debug\netcoreapp3.1\LogicaAccesoDatos.runtimeconfig.json
+C:\Users\Cristian\source\repos\Obligatorio-1-P3\LogicaAccesoDatos\bin\Debug\netcoreapp3.1\LogicaAccesoDatos.runtimeconfig.dev.json
+C:\Users\Cristian\source\repos\Obligatorio-1-P3\LogicaAccesoDatos\bin\Debug\netcoreapp3.1\LogicaAccesoDatos.dll
+C:\Users\Cristian\source\repos\Obligatorio-1-P3\LogicaAccesoDatos\bin\Debug\netcoreapp3.1\LogicaAccesoDatos.pdb
+C:\Users\Cristian\source\repos\Obligatorio-1-P3\LogicaAccesoDatos\obj\Debug\netcoreapp3.1\LogicaAccesoDatos.csproj.AssemblyReference.cache
+C:\Users\Cristian\source\repos\Obligatorio-1-P3\LogicaAccesoDatos\obj\Debug\netcoreapp3.1\LogicaAccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cristian\source\repos\Obligatorio-1-P3\LogicaAccesoDatos\obj\Debug\netcoreapp3.1\LogicaAccesoDatos.AssemblyInfoInputs.cache
+C:\Users\Cristian\source\repos\Obligatorio-1-P3\LogicaAccesoDatos\obj\Debug\netcoreapp3.1\LogicaAccesoDatos.AssemblyInfo.cs
+C:\Users\Cristian\source\repos\Obligatorio-1-P3\LogicaAccesoDatos\obj\Debug\netcoreapp3.1\LogicaAccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\Cristian\source\repos\Obligatorio-1-P3\LogicaAccesoDatos\obj\Debug\netcoreapp3.1\LogicaAccesoDatos.dll
+C:\Users\Cristian\source\repos\Obligatorio-1-P3\LogicaAccesoDatos\obj\Debug\netcoreapp3.1\LogicaAccesoDatos.pdb
+C:\Users\Cristian\source\repos\Obligatorio-1-P3\LogicaAccesoDatos\obj\Debug\netcoreapp3.1\LogicaAccesoDatos.genruntimeconfig.cache
+C:\Users\Cristian\source\repos\Obligatorio-1-P3\LogicaAccesoDatos\bin\Debug\netcoreapp3.1\LogicaNegocio.dll
+C:\Users\Cristian\source\repos\Obligatorio-1-P3\LogicaAccesoDatos\bin\Debug\netcoreapp3.1\LogicaNegocio.pdb
+C:\Users\Cristian\source\repos\Obligatorio-1-P3\LogicaAccesoDatos\obj\Debug\netcoreapp3.1\LogicaAccesoDatos.csproj.CopyComplete

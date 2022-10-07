@@ -1,0 +1,10 @@
+C:\Users\Cristian\source\repos\Obligatorio-1-P3\LogicaAplicacion\bin\Debug\netcoreapp3.1\LogicaAplicacion.deps.json
+C:\Users\Cristian\source\repos\Obligatorio-1-P3\LogicaAplicacion\bin\Debug\netcoreapp3.1\LogicaAplicacion.dll
+C:\Users\Cristian\source\repos\Obligatorio-1-P3\LogicaAplicacion\bin\Debug\netcoreapp3.1\LogicaAplicacion.pdb
+C:\Users\Cristian\source\repos\Obligatorio-1-P3\LogicaAplicacion\obj\Debug\netcoreapp3.1\LogicaAplicacion.csproj.AssemblyReference.cache
+C:\Users\Cristian\source\repos\Obligatorio-1-P3\LogicaAplicacion\obj\Debug\netcoreapp3.1\LogicaAplicacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cristian\source\repos\Obligatorio-1-P3\LogicaAplicacion\obj\Debug\netcoreapp3.1\LogicaAplicacion.AssemblyInfoInputs.cache
+C:\Users\Cristian\source\repos\Obligatorio-1-P3\LogicaAplicacion\obj\Debug\netcoreapp3.1\LogicaAplicacion.AssemblyInfo.cs
+C:\Users\Cristian\source\repos\Obligatorio-1-P3\LogicaAplicacion\obj\Debug\netcoreapp3.1\LogicaAplicacion.csproj.CoreCompileInputs.cache
+C:\Users\Cristian\source\repos\Obligatorio-1-P3\LogicaAplicacion\obj\Debug\netcoreapp3.1\LogicaAplicacion.dll
+C:\Users\Cristian\source\repos\Obligatorio-1-P3\LogicaAplicacion\obj\Debug\netcoreapp3.1\LogicaAplicacion.pdb
